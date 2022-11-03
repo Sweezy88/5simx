@@ -10,8 +10,8 @@ from databases import Database
 from config import white
 
 
-API_ID = 1038911
-API_HASH = "94d21cd31f1d54ff715ead95b1777bc1"
+API_ID = 1213736
+API_HASH = "df504031dd5224340f5f0e3e46022048"
 BOT_TOKEN = "5550817911:AAG7VCO6-vyTKaEja_3sbc5YBzrAvIsbuZk"
 COUNTRY_LIST_URL = 'https://telegra.ph/Country-List-11-25'
 SERVICE_LIST_URL = 'https://telegra.ph/Service-List-11-25'
